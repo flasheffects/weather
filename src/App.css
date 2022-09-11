@@ -88,7 +88,7 @@ button {
 }
 
 .search-bar {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     margin-right: -50%;
