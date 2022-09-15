@@ -84,11 +84,12 @@ button {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     color: rgb(214, 211, 223);
-    background-color: rgba(206, 224, 224, 0.1);
+    background-color: rgba(206, 224, 224, 0.2);
 }
 
 button:hover {
     cursor: pointer;
+    background-color: rgba(206, 224, 224, 0.3);
 }
 
 .search-bar {
