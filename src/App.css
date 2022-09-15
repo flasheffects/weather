@@ -87,6 +87,10 @@ button {
     background-color: rgba(206, 224, 224, 0.1);
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .search-bar {
     position: fixed;
     top: 50%;
